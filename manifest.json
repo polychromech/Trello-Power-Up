@@ -1,7 +1,7 @@
 {
-  "name": "Static Template",
+  "name": "Bi-Weekly Reports",
   "description": "",
-  "details": "A static sample Power-Up hosted on GitHub pages. Feel free to fork [this repository](https://github.com/trello/power-up-template) as a starting point for your own Power-Up.",
+  "details": "Add the Bi-Weekly Reports button to your board",
   "icon": {
     "url": "./images/logo.png"
   },
