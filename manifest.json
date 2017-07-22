@@ -3,7 +3,7 @@
   "description": "",
   "details": "Add the Bi-Weekly Reports button to your board",
   "icon": {
-    "url": "./logo.png"
+    "url": "https://tools.enigma.swiss/trello/power-up/g-dot.svg"
   },
   "author": "Enigma SA",
   "capabilities": [
