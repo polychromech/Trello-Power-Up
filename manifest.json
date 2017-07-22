@@ -1,18 +1,18 @@
 {
-  "name": "Bi-Weekly Reports",
+  "name": "Enigma - Bi-Weekly",
   "description": "",
   "details": "Add the Bi-Weekly Reports button to your board",
   "icon": {
-    "url": "./images/logo.png"
+    "url": "./logo.png"
   },
-  "author": "Trello Inc",
+  "author": "Enigma SA",
   "capabilities": [
     "board-buttons",
     "callback"
   ],
   "connectors": {
     "iframe": {
-      "url": "https://tools.enigmaprod.ch/trello/power-up-biweekly/index.html"
+      "url": "./index.html"
     }
   },
   "recommend": {
